@@ -36,13 +36,13 @@ The primary objective of this analysis is to:
 - Evaluation: Utilized accuracy and loss metrics to assess model performance on test data.
 
 ## 5. Results
-- Accuracy and Loss: The model achieved an accuracy of X% and a loss of Y on the test dataset.
+- Accuracy and Loss: The model achieved on the test dataset.
 - Neural Network Configuration: Employed ReLU activation for hidden layers and sigmoid for the output layer.
 - Training Outcomes: Plots of training and validation loss and accuracy indicated [observations on overfitting, underfitting, or good fit].
 
 ## 6. Model Optimization
 - Optimization Techniques Used: Additional layers, increased neurons, and adjusted epochs to improve model performance.
-- Performance Improvements: Post-optimization, the model's accuracy increased by Z%.
+- Performance Improvements: Post-optimization, the model's accuracy increased.
 
 ## 7. Alternative Modeling Techniques
 - Random Forest: Could be used as an alternative to address non-linear relationships more robustly than a neural network. It requires less data preprocessing and is less sensitive to outliers, making it a strong candidate for diverse datasets.
